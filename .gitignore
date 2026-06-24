@@ -6,7 +6,7 @@ build/
 .vscode/launch.json
 .vscode/ipch
 
-# Release������
+# Release
 *.zip
 
 # Windows
@@ -19,4 +19,3 @@ Desktop.ini
 
 # Video files
 *.mp4
-
