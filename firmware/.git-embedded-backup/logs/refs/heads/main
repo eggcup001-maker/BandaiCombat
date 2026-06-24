@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 b78ad4d5750a4f6b57500c6d4a9ba2e73522f6dc shadow <eggcup001@gmail.com> 1782173519 +0900	commit (initial): Initial commit
+b78ad4d5750a4f6b57500c6d4a9ba2e73522f6dc 7c9a4eef0ee9ddaacb57ef1e018e26feeb04d31e shadow <eggcup001@gmail.com> 1782223262 +0900	commit (amend): Initial commit
+7c9a4eef0ee9ddaacb57ef1e018e26feeb04d31e cb25f03d865e42dc6a47751eb6ec54dc9a0e8e3a shadow <eggcup001@gmail.com> 1782223757 +0900	branch: Reset to origin/main
+cb25f03d865e42dc6a47751eb6ec54dc9a0e8e3a 55b08799972399fceb3f3a2ac752bd927ecd0c36 shadow <eggcup001@gmail.com> 1782229327 +0900	commit: Add Bandai Combat schematic PDF
+55b08799972399fceb3f3a2ac752bd927ecd0c36 b64eea74a884098fb55c02ef6da1c8e7780dfb58 shadow <eggcup001@gmail.com> 1782267161 +0900	commit: Remove PCB files and schematic PDF
