@@ -19,3 +19,6 @@ Desktop.ini
 
 # Video files
 *.mp4
+
+# Ignore embedded Git backups created during submodule cleanup
+firmware/.git-embedded-backup/
